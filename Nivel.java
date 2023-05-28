@@ -1,0 +1,1 @@
+public enum Nivel {Basico, Intermediário, Difícil}
